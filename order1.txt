@@ -1,0 +1,1 @@
+wget https://raw.githubusercontent.com/tar1971/docsat/main/docsat.sh -qO - | /bin/sh
